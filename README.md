@@ -13,3 +13,7 @@
 4. URL security: All URLs in the application are secured and can only be accessed by an authenticated admin. This is achieved using Spring Security, which restricts access to certain features and ensures that only authorized users can access the system.
 5. Spring Boot: The project is built using Spring Boot, which provides a powerful platform for building web applications. This allows us to easily manage dependencies, configure the application, and launch the application.
 6. MySQL: The system uses MySQL as the database to store employee and department information. This provides a reliable and scalable solution for managing data.
+
+## Technologies:
+1. Spring Boot: Spring Boot is a powerful framework that provides a platform for building web applications. It simplifies the process of creating and deploying applications by providing a pre-configured environment for developers.
+2. MySQL: MySQL is an open-source relational database management system. It is used to store employee and department information in the system.
