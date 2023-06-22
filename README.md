@@ -43,3 +43,10 @@
 ## Tools:
 - java 17
 - mvn 3.1.0
+
+## Dependency:
+- Spring Web
+- Spring Security
+- Spring Data JPA
+- Spring Data JDBC
+- MySQL Driver
