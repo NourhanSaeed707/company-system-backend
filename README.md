@@ -5,3 +5,5 @@
 - To ensure that only authorized users can access the system, we have implemented Spring Security. This means that all URLs in the application are secured and can only be accessed by an authenticated admin.
 
 - The project is built using Spring Boot, which provides a powerful platform for building web applications. We are using MySQL as the database to store employee and department information
+
+  ## Features: 
