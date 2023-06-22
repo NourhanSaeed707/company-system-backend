@@ -11,3 +11,4 @@
 2. Department management: The admin can create, update, delete, and get departments in the system. The admin can also view all employees belonging to a specific department.
 3. Employee-Department relationship: The admin can assign an employee to a department, and view all employees belonging to a specific department.
 4. URL security: All URLs in the application are secured and can only be accessed by an authenticated admin. This is achieved using Spring Security, which restricts access to certain features and ensures that only authorized users can access the system.
+5. Spring Boot: The project is built using Spring Boot, which provides a powerful platform for building web applications. This allows us to easily manage dependencies, configure the application, and launch the application.
