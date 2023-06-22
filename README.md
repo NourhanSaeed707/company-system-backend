@@ -6,4 +6,4 @@
 
 - The project is built using Spring Boot, which provides a powerful platform for building web applications. We are using MySQL as the database to store employee and department information
 
-  ## Features: 
+## Features: 
