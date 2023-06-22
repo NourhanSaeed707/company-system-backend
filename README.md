@@ -28,3 +28,5 @@
 3. Configure the database: The project uses MySQL as the database, so you'll need to create a MySQL database and configure the connection details in the application.properties file. You can find this file in the src/main/resources folder.
 4. Launch the application: Once you have installed the dependencies and configured the database, you can launch the application by running the CompanySystemApplication.java file, which can be found in the src/main/java/com/company/system folder. You can run the application from your IDE or by running the command mvn spring-boot:run from the command line.
 5. Access the application: Once the application is running, you can access it by opening a web browser and navigating to http://localhost:8080/. You will be prompted to log in with an admin account. You can create an admin account by running the SQL script data.sql in the src/main/resources folder.
+
+## Security:
