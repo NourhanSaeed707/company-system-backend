@@ -39,3 +39,7 @@
 - User roles: We are using user roles to determine what actions a user is allowed to perform. For example, an admin might have full access to the application, while a regular user might only be able to view certain pages.
 
 - Password encryption: Passwords are encrypted before they are stored in the database using a one-way hash function. This ensures that even if the database is compromised, the passwords cannot be easily decrypted.
+
+## Tools:
+- java 17
+- mvn 3.1.0
