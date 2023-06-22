@@ -23,3 +23,8 @@
 6. Git: Git is a version control system that is used to manage the source code for the project. It allows developers to collaborate on the project and keep track of changes to the code
 
 ## Get started:
+1. Clone the repository: Start by cloning the company system project repository to your local machine using Git.
+2. Install dependencies: Next, make sure you have all the necessary dependencies installed on your machine. The project uses Maven to manage dependencies, so you can run mvn clean install to install all the required dependencies.
+3. Configure the database: The project uses MySQL as the database, so you'll need to create a MySQL database and configure the connection details in the application.properties file. You can find this file in the src/main/resources folder.
+4. Launch the application: Once you have installed the dependencies and configured the database, you can launch the application by running the CompanySystemApplication.java file, which can be found in the src/main/java/com/company/system folder. You can run the application from your IDE or by running the command mvn spring-boot:run from the command line.
+5. Access the application: Once the application is running, you can access it by opening a web browser and navigating to http://localhost:8080/. You will be prompted to log in with an admin account. You can create an admin account by running the SQL script data.sql in the src/main/resources folder.
