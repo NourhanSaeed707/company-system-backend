@@ -7,7 +7,6 @@
 - The project is built using Spring Boot, which provides a powerful platform for building web applications. We are using MySQL as the database to store employee and department information
 
 ## Features: 
-1. Employee management: The system allows the admin to create, edit, delete, and get one employee. The admin can view all employees in the system or search for a specific employee by name or department.
-2. 
-3. Department management: The admin can create, update, delete, and get departments in the system. The admin can also view all employees belonging to a specific department.
-4. Employee-Department relationship: The admin can assign an employee to a department, and view all employees belonging to a specific department.
+1. Employee management: The system allows the admin to create, edit, delete, and get one employee. The admin can view all employees in the system or search for a specific employee by name or department. 
+2. Department management: The admin can create, update, delete, and get departments in the system. The admin can also view all employees belonging to a specific department.
+3. Employee-Department relationship: The admin can assign an employee to a department, and view all employees belonging to a specific department.
