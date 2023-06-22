@@ -17,3 +17,4 @@
 ## Technologies:
 1. Spring Boot: Spring Boot is a powerful framework that provides a platform for building web applications. It simplifies the process of creating and deploying applications by providing a pre-configured environment for developers.
 2. MySQL: MySQL is an open-source relational database management system. It is used to store employee and department information in the system.
+3. Spring Security: Spring Security is a powerful and highly customizable authentication and access-control framework. It is used to secure the URLs in the application and restrict access to certain features.
