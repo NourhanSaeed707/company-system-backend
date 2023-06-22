@@ -30,3 +30,12 @@
 5. Access the application: Once the application is running, you can access it by opening a web browser and navigating to http://localhost:8080/. You will be prompted to log in with an admin account. You can create an admin account by running the SQL script data.sql in the src/main/resources folder.
 
 ## Security:
+- Authentication: When a user tries to access the application, they are prompted to enter their username and password. These credentials are then checked against the user database to ensure that they are valid. If the credentials are valid, the user is authenticated and granted access to the application.
+
+- Authorization: Once a user is authenticated, their authorization level is checked to determine what actions they are allowed to perform. In the case of the company system project, only admins are authorized to access certain areas of the application, such as the employee and department management pages.
+
+- URL security: All URLs in the application are secured and can only be accessed by an authenticated admin. This is achieved by using Spring Security to define access rules for each URL. For example, we might define a rule that says only admins can access the employee management page.
+
+- User roles: We are using user roles to determine what actions a user is allowed to perform. For example, an admin might have full access to the application, while a regular user might only be able to view certain pages.
+
+- Password encryption: Passwords are encrypted before they are stored in the database using a one-way hash function. This ensures that even if the database is compromised, the passwords cannot be easily decrypted.
