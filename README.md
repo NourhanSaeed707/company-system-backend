@@ -21,3 +21,5 @@
 4. Java: Java is a high-level programming language that is widely used for building enterprise-grade applications. It is the primary language used in the project.
 5. Maven: Maven is a build automation tool that is used to manage dependencies and build the application.
 6. Git: Git is a version control system that is used to manage the source code for the project. It allows developers to collaborate on the project and keep track of changes to the code
+
+## Get started:
