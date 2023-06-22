@@ -8,3 +8,4 @@
 
 ## Features: 
 1. Employee management: The system allows the admin to create, edit, delete, and get one employee. The admin can view all employees in the system or search for a specific employee by name or department.
+2. Department management: The admin can create, update, delete, and get departments in the system. The admin can also view all employees belonging to a specific department.
